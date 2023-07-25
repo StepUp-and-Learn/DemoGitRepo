@@ -2,9 +2,10 @@ package demogitpackage;
 
 public class Amruta {
 
-	public static void main(String[] args) {
+	public void Print() {
 		// TODO Auto-generated method stub
-
+      System.out.println("Hi..From Amruta");
+      System.out.println("hi....I.Work in Git frmemwork");
 	}
 
 }
